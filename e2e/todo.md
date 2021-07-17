@@ -1,0 +1,101 @@
+Subjects to test
+================
+
+- [ ] Teacher
+	- [ ] Semesters
+		- [ ] Create
+		- [ ] Read
+		- [ ] Update
+		- [ ] Delete
+		- [ ] Semantics
+			- [ ] TODO things like lifecycle, parent visibility, etc
+	- [ ] Courses
+		- [ ] Create
+		- [ ] Read
+			- [ ] Email list
+		- [ ] Update
+		- [ ] Delete
+	- [ ] Sections
+		- [ ] Create
+		- [ ] Read
+			- [ ] Email list
+		- [ ] Update
+		- [ ] Delete
+	- [ ] Events
+		- [ ] Create
+		- [ ] Read
+			- [ ] Email list
+		- [ ] Update
+		- [ ] Delete
+	- [ ] Levels
+		- [ ] Create
+		- [ ] Read
+		- [ ] Update
+		- [ ] Delete
+		- [ ] Reorder
+		- [ ] Semantics
+			- [ ] Restricted
+			- [ ] Disabled
+			- [ ] Grade range
+	- [ ] Special Events
+		- [ ] Create
+		- [ ] Read
+		- [ ] Update
+		- [ ] Delete
+	- [ ] Parents
+		- [ ] Search
+		- [ ] Update
+		- [ ] Delete
+		- [ ] TODO others?
+	- [ ] Students
+		- [ ] Search
+		- [ ] Update
+		- [ ] Delete
+		- [ ] Ballots
+			- [ ] Create
+			- [ ] Update
+			- [ ] Delete
+			- [ ] Lottery
+		- [ ] Registrations
+			- [ ] Create
+			- [ ] Update
+			- [ ] Delete
+			- [ ] Waitlist change on update or delete
+		- [ ] TODO others?
+	- [ ] Lottery
+		- [ ] Generate
+		- [ ] Waitlists
+		- [ ] Priorities
+		- [ ] Persist
+		- [ ] Idempotence
+	- [ ] Priorities
+		- [ ] Reset
+- [ ] Parent
+	- [ ] Profile
+		- [ ] Create
+		- [ ] Update
+	- [ ] Catalog
+	- [ ] Levels
+	- [ ] Special Events
+		- [ ] List
+		- [ ] Read
+		- [ ] Register/unregister
+	- [ ] Students
+		- [ ] Create
+		- [ ] List
+		- [ ] Read
+		- [ ] Update
+		- [ ] Delete
+		- [ ] Ballots
+			- [ ] Create
+			- [ ] Update
+			- [ ] Delete
+			- [ ] Lottery
+		- [ ] Registrations
+			- [ ] Create
+			- [ ] Update
+			- [ ] Delete
+			- [ ] Waitlist change on update or delete
+	- [ ] Schedule
+
+- [ ] Try to replace all wonky selections with clear CSS classes to hide implementation
